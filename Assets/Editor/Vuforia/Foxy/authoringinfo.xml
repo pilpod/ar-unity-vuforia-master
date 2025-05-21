@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="11.2.4">
+<ModelTarget name="Foxy" targetId="703db188f63742bba1d19db05b1025f4" version="14.0" toolVersion="11.2.4" bbox="-0.397582 -0.0062542 -0.397169 0.397582 0.985205 0.401821" upVector="0 1 0" previewImage="703db188f63742bba1d19db05b1025f4_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Foxys_assembly" assemblyId="18cdd65216374b29b429b6598589a492">
+<Part name="Foxy" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="View_Front" translation="-0.0103773 0.464284 1.84026" rotation="AD: 0.993526 -0.16236 0.998543 192.999" image="Foxy_View_Front.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="View_Right" translation="0.032295 0.463329 1.77166" rotation="AD: 1 -1.58902e-17 1.25058e-18 189" image="Foxy_View_Right.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="View_Left" translation="0 0.489475 1.68293" rotation="AD: 1 0 0 180" image="Foxy_View_Left.png" trained="no">
+
+</EntryPoint>
+<EntryPoint name="View_Back" translation="0.0023263 0.489475 1.68525" rotation="AD: -1 0 1 180" image="Foxy_View_Back.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
